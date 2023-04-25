@@ -49,7 +49,7 @@ position: relative;
 }
 .container .usuario input:focus ~ label,
 .container .usuario input:valid ~ label{
-    top: -20px;
+top: -20px;
 left: 0;
 font-size: 12px;
 color: #03e9f4;
